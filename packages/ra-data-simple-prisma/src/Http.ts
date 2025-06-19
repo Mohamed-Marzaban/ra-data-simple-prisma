@@ -8,7 +8,7 @@ import {
   GetOneParams,
   UpdateManyParams,
   UpdateParams,
-} from "react-admin";
+} from "./types/Http_types";
 
 export type RaPayload<T = string> =
   | GetListRequest<T>

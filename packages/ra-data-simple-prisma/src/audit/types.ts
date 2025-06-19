@@ -1,5 +1,4 @@
-import { AuthProvider } from "react-admin";
-
+import { AuthProvider } from "../types/AuthProvider_types";
 export type AuditOptions = {
   model: { create: Function };
   authProvider: AuthProvider;
