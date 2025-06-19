@@ -2,10 +2,6 @@
   "name": "ra-tools",
   "version": "0.0.0",
   "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
   "scripts": {
     "test": "turbo run test",
     "dev": "turbo run dev --parallel --no-cache",

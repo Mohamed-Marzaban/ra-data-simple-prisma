@@ -30,7 +30,6 @@
     "next-auth": ">=4"
   },
   "devDependencies": {
-    "eslint-config-custom": "workspace:*",
     "jest": "^29.7.0",
     "next-auth": "^4.24.11",
     "tsup": "^8.4.0",
